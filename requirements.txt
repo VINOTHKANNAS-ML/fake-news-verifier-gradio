@@ -1,0 +1,9 @@
+gradio==4.44.1
+pandas==2.2.0
+pillow==10.2.0
+httpx==0.26.0
+pydantic-settings==2.1.0
+beautifulsoup4==4.12.3
+duckduckgo-search==4.1.1
+wikipedia==1.4.0
+reportlab==4.1.0
